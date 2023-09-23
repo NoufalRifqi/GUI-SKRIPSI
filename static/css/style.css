@@ -1,0 +1,43 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+h2,
+h4 {
+  font-family: "Raleway", sans-serif;
+}
+
+.jumbotron,
+.classification {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+.jumbotron .btn {
+  border-radius: 50px;
+}
+
+.classification input {
+  border-radius: 10px;
+}
+
+.classification .btn {
+  border-radius: 10px;
+  width: 15%;
+}
+
+.classification .container .container {
+  width: 50%;
+}
+
+footer .social-links {
+  margin: 0 0 5px 0;
+}
+
+footer .copyright {
+  margin: 0 0 5px 0;
+}
+
+footer .credits {
+  font-size: 13px;
+}
